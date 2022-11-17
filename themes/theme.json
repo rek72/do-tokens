@@ -1,0 +1,25 @@
+{
+  "global": {
+    "tag-border-radius": {
+      "value": "0",
+      "type": "borderRadius",
+      "description": "sDF adsfasd fasdf"
+    }
+  },
+  "Dark": {},
+  "global_test": {
+    "tag-border-radius": {
+      "value": "100",
+      "type": "borderRadius",
+      "description": "sDF adsfasd fasdf"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Dark",
+      "global_test"
+    ]
+  }
+}
